@@ -1,2 +1,2 @@
 # todo-js
-Created with CodeSandbox
+CodeSandboxを用いてJavaScriptでtodoアプリを作成しました。
